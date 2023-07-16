@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Persius48
+- 👋 Hi, I’m Tariqul
 - 👀 I’m interested in Robotics, AGVs, Autonomous Navigation
 - 🌱 I’m currently learning ROS using Python and C++
 - 💞️ I’m looking to collaborate on Sensor Fusion and Navigation tasks
